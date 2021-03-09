@@ -1,9 +1,9 @@
 setUP
-W
+k
 setUP (ALTERNATE)
 FlxKey.UP
 setDOWN
-S
+s
 setDOWN (ALTERNATE)
 FlxKey.DOWN
 setLEFT
@@ -11,11 +11,11 @@ A
 setLEFT (ALTERNATE)
 FlxKey.LEFT
 setRIGHT
-D
+a
 setRIGHT (ALTERNATE)
 FlxKey.RIGHT
 setACCEPT
-Z
+l
 setACCEPT (ALTERNATE)
 ENTER
 setBACK
